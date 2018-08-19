@@ -1,6 +1,8 @@
 # Helsinki-Region-Statistics
 A Shiny App with Leaflet and Plotly
 
+## [Link to the Shiny app](https://hoangt2.shinyapps.io/HelsinkiRegionStat/)
+
 ## About The Application
 
 This Shiny application is a vizualization of some statistics about Helsinki Capital Region (Finland), i.e. number of inhabitants, their gender and age structure, and median income by each postal code/ district.
@@ -32,7 +34,7 @@ Below is the list of UI elements with their corresponding events & reactions tha
   
   ## References
   
-  1. [Link to my Shiny app](https://hoangt2.shinyapps.io/HelsinkiRegionStat/)
+1. [Link to my Shiny app](https://hoangt2.shinyapps.io/HelsinkiRegionStat/)
 
 2. [Link to Github repo](https://github.com/hoangt2/Helsinki-Region-Statistics)
 
