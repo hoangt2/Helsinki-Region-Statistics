@@ -31,3 +31,13 @@ Below is the list of UI elements with their corresponding events & reactions tha
   - A histogram for age groups
   
   ## References
+  
+  1. [Link to my Shiny app](https://hoangt2.shinyapps.io/HelsinkiRegionStat/)
+
+2. [Link to Github repo](https://github.com/hoangt2/Helsinki-Region-Statistics)
+
+3. [Helsinki Region shapefile by HSY ](https://www.hsy.fi/fi/asiantuntijalle/seututieto/paikkatiedot/kartta-aineistot/taustakartat/Sivut/paakaupunkiseudunpostinumeroalueet.aspx)
+
+4. [Paavo Open Dataset by Statistics Finland](https://www.stat.fi/tup/paavo/index.html)
+
+5. [Reference article about transforming and plotting shapefile on top of basemap](https://www.r-bloggers.com/shapefile-polygons-plotted-on-google-maps-using-ggmap-in-r-throw-some-throw-some-stats-on-that-mappart-2/)
